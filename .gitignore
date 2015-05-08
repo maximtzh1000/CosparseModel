@@ -1,3 +1,7 @@
 *.mat
 *.eps
 *.fig
+pics/
+data/
+redundant/
+tv_fista/
